@@ -9,7 +9,8 @@
 
 
 <h2> Preview</h2>
-![Note App Preview](preview.png)
+![Alt Text](Preview.png.png)
+
 
 <h2> Local Storage </h2>
 <p> The notes are stored in the browser's local storage, allowing users to access their notes even after refreshing the page or closing the browser window.</p>
