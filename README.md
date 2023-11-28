@@ -1,4 +1,4 @@
-# Note-app -> https://note-app-arococo-banoffee-c0aa84.netlify.app/
+# Note-app ->[Link](https://note-app-arococo-banoffee-c0aa84.netlify.app/)
 
 <h2> Features </h2>
 <ul>
