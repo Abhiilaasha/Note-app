@@ -13,6 +13,9 @@
 <p> The notes are stored in the browser's local storage, allowing users to access their notes even after refreshing the page or closing the browser window.</p>
 
 
+<h2> Preview </h2>
+<a href="https://imgur.com/6xPRaiM"><img src="https://i.imgur.com/6xPRaiM.png" title="source: imgur.com" /></a>
+
 <h2> License </h2>
 <p> This project is licensed under the MIT License </p>
 
